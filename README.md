@@ -1,4 +1,3 @@
-![sanjay](https://github.com/sanjaykumar6678/sanjaykumar6678/blob/main/profile%20photo.jpg?raw=true)
 
 - 👋 Hi, I’m @sanjay
 - 👀 I’m interested in ...
