@@ -1,8 +1,7 @@
-![sanjay](https://github.com/sanjaykumar6678/sanjaykumar6678/blob/main/profile%20photo.jpg?raw=true)
+
 ## Hi there 
 
 - Welcome to My Gitup Profile 
-
 
 ![sanjay](https://github.com/sanjaykumar6678/sanjaykumar6678/blob/main/profile%20photo.jpg?raw=true)
 
