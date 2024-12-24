@@ -1,5 +1,5 @@
 
-## Hi there 
+## Hi there! 👋 
 
 - Welcome to My Gitup Profile 
 
@@ -8,7 +8,8 @@
 
 ## About Me 
 
-Hello I'm Sanjay An b.com Gradute,  Now I Am Learning In Data Science & Machine learning Course Past 6 Month. I have A Passion Learning Technology And Coding so I'M Update My Skills.
+ 
+ I'm [sanjay], an enthusiastic and detail-oriented aspiring Data Analyst with a strong foundation in data analysis, visualization, and storytelling. My passion lies in transforming raw data into actionable insights that drive decision-making.
 
 ## Project
 
