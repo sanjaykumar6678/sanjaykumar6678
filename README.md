@@ -14,10 +14,26 @@
 
 ## Project
 
+## Healthcare-Excel-Project
+
+https://github.com/sanjaykumar6678/Healthcare-ExcelDashboard/blob/main/k.Sanjay%20HealthCare%20Project...1.xlsx
+
+This project focuses on analyzing healthcare data to uncover patterns, identify trends, and provide actionable insights to improve patient care and operational efficiency. The analysis is performed using Microsoft Excel, leveraging its powerful features for data cleaning, exploration, and visualization.
+
+
+## Bank report power BI Project
+
+https://github.com/sanjaykumar6678/bank-report-Power-BI-Project/blob/main/Bank%20Report%20Power%20Bi%20Project.pdf
+
+This project involves creating an interactive and dynamic Power BI dashboard to analyze the performance of a bank across various dimensions, such as customer demographics, loan performance, branch profitability, and service usage. The dashboard provides actionable insights to support decision-making and optimize banking operations.
+
+
+## E-Commerce Customer Churn Analysis Project SQL
+
+https://github.com/sanjaykumar6678/E-Commerce-Customer-Churn-Analysis-Project/blob/main/E-Commerce%20Customer%20Churn%20Analysis%20Project.sql
+
+This project involves analyzing customer behavior in an e-commerce business to identify factors contributing to customer churn. The primary goal is to provide actionable insights to improve customer retention strategies. The analysis is conducted using SQL for data manipulation, querying, and extracting meaningful patterns from a relational database.
 
 
 
-<!---
-sanjaykumar6678/sanjaykumar6678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
