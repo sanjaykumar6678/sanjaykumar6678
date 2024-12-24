@@ -8,7 +8,7 @@
 
 ## About Me 
 
-Hello I'm Sanjay An MBA Gradute, Specialization HR & Marketind , Now I Am Learning In Data Science & Machine learning Course Past 6 Month. I have A Passion Learning Technology And Coding so I'M Update My Skills.
+Hello I'm Sanjay An b.com Gradute,  Now I Am Learning In Data Science & Machine learning Course Past 6 Month. I have A Passion Learning Technology And Coding so I'M Update My Skills.
 
 ## Project
 
