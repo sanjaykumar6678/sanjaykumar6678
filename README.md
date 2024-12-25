@@ -35,5 +35,26 @@ https://github.com/sanjaykumar6678/E-Commerce-Customer-Churn-Analysis-Project/bl
 This project involves analyzing customer behavior in an e-commerce business to identify factors contributing to customer churn. The primary goal is to provide actionable insights to improve customer retention strategies. The analysis is conducted using SQL for data manipulation, querying, and extracting meaningful patterns from a relational database.
 
 
+## Education and certifications
+
+-  Bachelor of Commerce (B.Com)
+-  Master Of Business Administrition (MBA) HR/ Marketing
+-  Certification in Data Science & Machine Learning : Illinois Tech US                                 
+-  Data Science & Machine Learning : Entri Elevate                                                                 
+
+## Skills
+
+-  Programming Languages : python,machine learning,SQL
+-  Data analysis Tool : pandas,Numpy,Excel
+-  Data Visuvalization : Power BI
+-  Other Tools : Github, Jupyter notebook
+
+## Hobbies
+
+- learning tech updates
+- Discussing self-improvement and motivation
+- Learning books
+
+Thank You Visiting my Github portfolio ! I am always open to new opprtunities and collaboration
 
 
