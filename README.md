@@ -34,6 +34,30 @@ https://github.com/sanjaykumar6678/E-Commerce-Customer-Churn-Analysis-Project/bl
 
 This project involves analyzing customer behavior in an e-commerce business to identify factors contributing to customer churn. The primary goal is to provide actionable insights to improve customer retention strategies. The analysis is conducted using SQL for data manipulation, querying, and extracting meaningful patterns from a relational database.
 
+## Marketing Campaign Performance Insights - Python Project
+
+https://colab.research.google.com/drive/1Stje8R8MXwRBA4oBR9DTXLn7mjISuIPL
+
+📋 Project Overview
+A comprehensive data analytics project that analyzes marketing campaign performance across multiple channels to derive actionable insights and optimize marketing strategies.
+
+## ML Capstone: Advanced Credit Card Fraud Detection System
+
+https://colab.research.google.com/drive/1T7OSf_jM688Hjb-PWeV49DJrniHXvPxk?usp=sharing
+
+🎓 Project Title
+Intelligent Real-Time Credit Card Fraud Detection using Machine Learning
+
+📋 Executive Summary
+A comprehensive machine learning system that detects fraudulent credit card transactions in real-time with high accuracy, minimizing financial losses while maintaining excellent customer experience through reduced false positives.
+
+🎯 Business Impact
+Financial Institutions: Prevent millions in fraudulent losses annually
+Customers: Enhanced security with minimal transaction interruptions
+Regulatory: Compliance with financial security standards and anti-fraud regulations
+
+
+
 
 ## Education and certifications
 
