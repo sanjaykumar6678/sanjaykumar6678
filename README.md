@@ -51,6 +51,8 @@ https://colab.research.google.com/drive/1T7OSf_jM688Hjb-PWeV49DJrniHXvPxk?usp=sh
 
 ## Build Real time Google Play store data analytics - python
 
+http://localhost:8888/notebooks/Google%20playstore%20Analysis.ipynb
+
 This repository contains my Data Analyst training certificate from NullClass, along with project files completed during the program. The certification reflects hands-on skills in data cleaning, preprocessing, visualization, and exploratory data analysis using Python.
 
 ## What This Certification Covers
