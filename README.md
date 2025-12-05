@@ -43,10 +43,33 @@ A comprehensive data analytics project that analyzes marketing campaign performa
 
 ## ML Capstone: Advanced Credit Card Fraud Detection System
 
+🎓 Project Title
+Intelligent Real-Time Credit Card Fraud Detection using Machine Learning This capstone project focuses on building an Advanced Machine Learning System to detect fraudulent credit card transactions in real time. Fraud detection is a critical challenge for banks and financial institutions due to highly imbalanced data, evolving fraud patterns, and the need for fast, accurate predictions.
+This project applies multiple ML techniques, data balancing strategies, and model evaluation metrics to create a robust detection pipeline.
+
 https://colab.research.google.com/drive/1T7OSf_jM688Hjb-PWeV49DJrniHXvPxk?usp=sharing
 
-🎓 Project Title
-Intelligent Real-Time Credit Card Fraud Detection using Machine Learning
+## Build Real time Google Play store data analytics - python
+
+This repository contains my Data Analyst training certificate from NullClass, along with project files completed during the program. The certification reflects hands-on skills in data cleaning, preprocessing, visualization, and exploratory data analysis using Python.
+
+## What This Certification Covers
+
+Python for Data Analysis
+
+Data Cleaning & Preprocessing
+
+Exploratory Data Analysis (EDA)
+
+Handling missing values & data inconsistencies
+
+Data visualization using Matplotlib
+
+Real-time dataset analysis
+
+Converting raw data into actionable insights
+
+
 
 📋 Executive Summary
 A comprehensive machine learning system that detects fraudulent credit card transactions in real-time with high accuracy, minimizing financial losses while maintaining excellent customer experience through reduced false positives.
